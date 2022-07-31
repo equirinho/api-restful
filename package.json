@@ -1,0 +1,15 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "passport": "^0.6.0",
+    "passport-headerapikey": "^1.2.2",
+    "sequelize": "^6.21.3",
+    "sequelize-cli": "^6.4.1",
+    "sqlite3": "^5.0.10"
+  }
+}
